@@ -1,1 +1,1 @@
-# LAMBDA Interpreter
+# LAMBDA Calculus Interpreter
